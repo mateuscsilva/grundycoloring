@@ -1,1 +1,0 @@
-..\..\Instances\instances\dimacs\clique\hamming6-4.clq..\..\Instances\instances\dimacs\clique\hamming6-4.clq

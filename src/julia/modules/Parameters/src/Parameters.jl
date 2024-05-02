@@ -41,7 +41,7 @@ function readInputParameters(ARGS)
     ### Set standard values for the parameters ###
     instName="../../instances/dimacs_col/myciel5.col"
     problem="gcol"
-    method="upperboundnew"
+    method="exact"
     form="rep"
     solver = "Gurobi"
     maxtime = 3600

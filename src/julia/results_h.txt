@@ -1,2 +1,0 @@
-;gcol;exact;rep;8;8;8;8;8;9,8
-;gcol;exact;rep;8;8;8;8;8;9,8
