@@ -8,4 +8,4 @@ The BRKGA code for the problem was developed using the [brkgaApi](https://github
 
 1. brkgaGrundy: folder that contains the codes related to brkga in C++.
 2. src: folder that contains the codes related to the formulations in Julia.
-3. instances: folder that contains the set of instances used in the tests
+3. instances.zip: compressed folder that contains the set of instances used in the tests
