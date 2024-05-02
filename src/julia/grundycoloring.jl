@@ -7,7 +7,6 @@ import Data
 import Parameters
 import Formulations
 import Heuristics
-import Enumerative
 import Solution
 import UpperBounds
 

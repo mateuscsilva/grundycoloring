@@ -1,0 +1,2 @@
+..\..\Instances\instances\dimacs\clique\hamming6-4.clq;gcol;0.95;rep;NA;64.0;40.963587;30.08177947998047;0;exact;0;0;3
+..\..\Instances\instances\dimacs\clique\hamming6-4.clq;gcol;0.95;rep;NA;36.0;309.9682063;300.0151557922363;1;exact;0;0;3
