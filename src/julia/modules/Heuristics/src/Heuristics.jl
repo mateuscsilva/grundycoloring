@@ -5,8 +5,6 @@ using Parameters
 using Statistics
 using Solution
 using DataStructures
-using LightGraphs, LightGraphsFlows
-using Random
 
 export maxDegree, minDegree, dinMaxDegree, dsatur, getcoloring, remove!
 

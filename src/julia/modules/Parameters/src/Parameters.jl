@@ -39,7 +39,7 @@ function readInputParameters(ARGS)
     println("Running Parameters.readInputParameters")
 
     ### Set standard values for the parameters ###
-    instName="../../instances/dimacs_col/myciel5.col"
+    instName="../../instances/small_leq_30/random/rand_15_0.2_01.col"
     problem="gcol"
     method="exact"
     form="rep"
