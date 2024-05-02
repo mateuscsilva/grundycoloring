@@ -1,0 +1,44 @@
+c 
+c U(n,d) graph
+c graph gen seed     : 16457
+c number of vertices : 15
+c max number of edges: 500
+c Euclidean distance : 0.400000
+c data structure     : sparse
+c
+c           Graph Stats
+c number of vertices  : 15
+c nonisolated vertices: 15
+c number of edges     : 27
+c edge density        : 0.257143
+c max degree          : 6
+c avg degree          : 3.60
+c min degree          : 2
+p col 15 27
+e 1 14
+e 1 13
+e 1 11
+e 1 5
+e 1 2
+e 2 15
+e 2 14
+e 2 11
+e 2 7
+e 3 15
+e 3 14
+e 3 12
+e 3 10
+e 3 9
+e 4 8
+e 4 6
+e 5 13
+e 5 11
+e 5 9
+e 6 8
+e 6 7
+e 7 14
+e 9 10
+e 11 14
+e 11 13
+e 12 15
+e 14 15

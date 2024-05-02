@@ -1,0 +1,140 @@
+c 
+c U(n,d) graph
+c graph gen seed     : 6839
+c number of vertices : 50
+c max number of edges: 1225
+c Euclidean distance : 0.200000
+c data structure     : sparse
+c
+c           Graph Stats
+c number of vertices  : 50
+c nonisolated vertices: 50
+c number of edges     : 123
+c edge density        : 0.100408
+c max degree          : 9
+c avg degree          : 4.92
+c min degree          : 1
+p col 50 123
+e 1 48
+e 1 45
+e 1 40
+e 1 26
+e 1 14
+e 1 13
+e 2 49
+e 2 37
+e 2 23
+e 2 21
+e 2 5
+e 3 50
+e 3 43
+e 3 34
+e 3 19
+e 3 7
+e 4 41
+e 4 39
+e 4 33
+e 4 17
+e 4 9
+e 4 8
+e 5 49
+e 5 37
+e 5 23
+e 5 21
+e 6 45
+e 6 31
+e 6 27
+e 6 26
+e 6 20
+e 7 50
+e 7 43
+e 7 35
+e 7 34
+e 7 33
+e 7 25
+e 8 33
+e 8 25
+e 8 24
+e 8 17
+e 8 9
+e 9 35
+e 9 25
+e 9 24
+e 9 17
+e 10 12
+e 11 47
+e 11 42
+e 11 38
+e 11 32
+e 11 22
+e 12 18
+e 13 48
+e 13 45
+e 13 44
+e 13 36
+e 13 27
+e 13 16
+e 13 14
+e 14 48
+e 14 45
+e 14 40
+e 14 26
+e 15 29
+e 15 24
+e 16 44
+e 16 36
+e 16 27
+e 17 24
+e 18 46
+e 18 38
+e 19 23
+e 20 45
+e 20 31
+e 20 30
+e 20 26
+e 21 42
+e 21 37
+e 22 47
+e 22 42
+e 22 38
+e 22 37
+e 22 32
+e 23 49
+e 23 37
+e 25 50
+e 25 43
+e 25 35
+e 26 48
+e 26 45
+e 26 44
+e 26 31
+e 26 27
+e 27 48
+e 27 45
+e 27 44
+e 28 30
+e 30 40
+e 32 47
+e 32 42
+e 32 38
+e 33 50
+e 33 41
+e 33 39
+e 34 50
+e 34 46
+e 34 43
+e 34 35
+e 35 50
+e 35 43
+e 36 44
+e 37 49
+e 37 38
+e 38 47
+e 38 46
+e 38 42
+e 39 41
+e 40 45
+e 42 47
+e 43 50
+e 44 48
+e 45 48

@@ -1,0 +1,41 @@
+c 
+c G(n,p) graph
+c graph gen seed     : 1250
+c number of vertices : 20
+c max number of edges: 400
+c edge probability   : 0.200000
+c data structure     : sparse
+c
+c           Graph Stats
+c number of vertices  : 20
+c nonisolated vertices: 18
+c number of edges     : 24
+c edge density        : 0.126316
+c max degree          : 5
+c avg degree          : 2.40
+c min degree          : 0
+p col 20 24
+e 2 18
+e 2 11
+e 3 10
+e 3 7
+e 3 4
+e 4 17
+e 4 6
+e 5 14
+e 5 12
+e 5 10
+e 5 6
+e 6 20
+e 6 19
+e 7 18
+e 7 10
+e 8 20
+e 9 13
+e 9 11
+e 9 10
+e 10 16
+e 12 18
+e 14 19
+e 17 20
+e 18 19
